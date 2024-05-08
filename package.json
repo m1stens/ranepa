@@ -1,8 +1,8 @@
 {
   "name": "ranepa",
   "version": "0.1.0",
-	"homepages": "https://ranepa/m1stens.github.io",
-  "private": false,
+  "homepages": "https://ranepa/m1stens.github.io",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
